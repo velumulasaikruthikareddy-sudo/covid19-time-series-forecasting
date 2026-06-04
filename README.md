@@ -1,5 +1,3 @@
-# covid19-time-series-forecasting
-
 # COVID-19 Time Series Forecasting Project
 
 ## Description
@@ -15,15 +13,6 @@ This project analyzes and forecasts COVID-19 trends using Data Analytics and Mac
 * Streamlit
 * Scikit-learn
 
-## Features
-
-- COVID-19 Data Analysis
-- Time Series Forecasting
-- Interactive Dashboard
-- Trend Visualization
-- Future Case Prediction
-- Data Analytics Reports
-
 ## Project Structure
 
 * app.py — Main application
@@ -33,22 +22,20 @@ This project analyzes and forecasts COVID-19 trends using Data Analytics and Mac
 
 ## Dataset Notice
 
-This project uses:
-
-- covid_data.csv
-- owid-covid-data.csv
-
-The datasets are not included due to GitHub file size limitations.
+The dataset is not included in this repository because of GitHub file size limitations.
 
 To run this project:
 
 1. Download the COVID-19 dataset.
+
 2. Place the dataset file inside the `dataset` folder.
+
 3. Install dependencies using:
 
    ```
    pip install -r requirements.txt
    ```
+
 4. Run:
 
    ```
