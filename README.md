@@ -15,6 +15,15 @@ This project analyzes and forecasts COVID-19 trends using Data Analytics and Mac
 * Streamlit
 * Scikit-learn
 
+## Features
+
+- COVID-19 Data Analysis
+- Time Series Forecasting
+- Interactive Dashboard
+- Trend Visualization
+- Future Case Prediction
+- Data Analytics Reports
+
 ## Project Structure
 
 * app.py — Main application
@@ -24,7 +33,12 @@ This project analyzes and forecasts COVID-19 trends using Data Analytics and Mac
 
 ## Dataset Notice
 
-The dataset is not included in this repository because of GitHub file size limitations.
+This project uses:
+
+- covid_data.csv
+- owid-covid-data.csv
+
+The datasets are not included due to GitHub file size limitations.
 
 To run this project:
 
